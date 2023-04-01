@@ -1,0 +1,70 @@
+.buttons{
+    display: flex;
+    column-gap: 15px;
+    margin: -1px;
+    margin-right: 5px;
+}
+
+h3{
+    display: flex;
+}
+
+.checkbox{
+    display: flex;
+    margin-right: 99px;
+    width: 23px;
+}
+
+.config{
+    display: flex;
+    margin-right: 30px;
+}
+
+.logo{
+    width: 110px;
+    height: 110px;
+    
+}
+
+.logo-titulo{
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+
+.container{
+    padding-top: 36px;
+}
+
+.mercado-fema{
+    display: flex;
+    padding-top: 3px;
+    align-items: center;
+}
+
+.form-label{
+    padding-top: 21px;
+    font-size: 20px;
+}
+
+.form-control{
+    width: 1268px;
+    height: 40px;
+    display: flex;
+    margin-top: 7px;
+}
+
+.itens-add{
+    display: flex;
+    margin-top: 15px;
+    font-size: 35px;
+}
+
+.table{
+    font-size: 18px;
+}
+
+.button-add{
+    display: flex;
+    margin-top: 19px;
+}

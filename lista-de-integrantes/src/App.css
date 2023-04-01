@@ -1,0 +1,127 @@
+body{
+  background-color: rgb(37, 34, 34);
+  padding-top: 30px;
+}
+
+.titulo_integrantes{
+  color: white;
+  text-align: center;
+  padding-top: 1px;
+  font-size: 30px;
+}
+
+.fotos_integrantes{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 55px;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.cabeçalho{
+  text-align: center;
+}
+
+.logo{
+  transition: all 0.65s;
+  cursor: pointer;
+}
+
+.logo:hover{
+  -webkit-transform: scale(2);
+  transform: scale(1.3);
+}
+
+.foto_didio{
+  width: 165px;
+  height: 165px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.foto_didio:hover{
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+  filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+
+}
+
+.nome_didio{
+  color: white;
+  font-size: 21px;
+}
+
+.foto_henrique{
+  width: 165px;
+  height: 165px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.foto_henrique:hover{
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+  filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+}
+
+.nome_henrique{
+  color: white;
+  font-size: 19.5px;
+}
+
+.foto_kaua{
+  width: 165px;
+  height: 165px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.foto_kaua:hover{
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+  filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+}
+
+.nome_kaua{
+  color: white;
+  font-size: 21px;
+}
+
+.foto_thalia{
+  width: 165px;
+  height: 165px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.foto_thalia:hover{
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+  filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+}
+
+.nome_thalia{
+  color: white;
+  font-size: 21px;
+}
+
+.foto_thales{
+  width: 165px;
+  height: 165px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.foto_thales:hover{
+  -webkit-filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+  filter: drop-shadow(15px 10px 5px rgba(161, 78, 168, 0.5));
+}
+
+.nome_thales{
+  color: white;
+  font-size: 23px;
+}
+
+.descricao_atividade{
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
